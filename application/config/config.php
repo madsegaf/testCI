@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://mapresdb.16mb.com/';
+$config['base_url']	= 'http://testgitmapres.azurewebsites.net/';
 
 /*
 |--------------------------------------------------------------------------
