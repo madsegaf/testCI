@@ -48,10 +48,15 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = '';
-$db['default']['password'] = '';
-$db['default']['database'] = '';
+// $db['default']['hostname'] = 'localhost';
+// $db['default']['username'] = '';
+// $db['default']['password'] = '';
+// $db['default']['database'] = '';
+$db['default']['hostname'] = 'mysql.idhostinger.com';
+$db['default']['username'] = 'u130873045_segaf';
+$db['default']['password'] = 'muhammadsegaf44';
+$db['default']['database'] = 'u130873045_mprs';
+
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
